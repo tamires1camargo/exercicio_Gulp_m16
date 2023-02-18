@@ -1,0 +1,1 @@
+var x=myFunction(3,9);function myFunction(n,t){return n*t}document.getElementById("result").innerHTML=x;

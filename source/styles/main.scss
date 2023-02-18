@@ -1,0 +1,20 @@
+@use 'variaveis';
+
+body {
+    background-color: variaveis.$corPrincipal;
+    color: variaveis.$corDaLetra;
+}
+
+header {
+    background-color: variaveis.$corSecundaria;
+}
+
+div {
+    text-align: center;
+}
+
+p {
+    font-weight: bold;
+    font-size: 22px;
+    color: red;
+}
